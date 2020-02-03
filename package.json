@@ -1,0 +1,21 @@
+{
+  "name": "fastify-demo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fastify": "^2.11.0",
+    "cors": "^2.8.5",
+    "x-xss-protection": "^1.1.0",
+    "hide-powered-by": "^1.0.0"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.2"
+  }
+}
